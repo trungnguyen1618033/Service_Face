@@ -1,0 +1,8 @@
+Flask==1.1.2
+opencv-python==4.4.0.46
+scikit-image==0.17.2
+pillow==8.0.1
+scikit-learn==0.23.2
+cython==0.29.21
+mxnet-cu101==1.6.0.post0
+faiss-gpu==1.6.4.post2
